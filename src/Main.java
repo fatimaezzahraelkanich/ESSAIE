@@ -17,6 +17,7 @@ public class Main{
         Arrays.sort(T);
         System.out.println("Tableau trié par ordre : " + Arrays.toString(T));
 
+
     }
 }
 
