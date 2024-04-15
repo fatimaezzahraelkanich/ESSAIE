@@ -24,4 +24,4 @@ public class Personne{
         System.out.println("Prenom="+Prenom);
         System.out.println("Email="+Email);
         System.out.println("age="+age);
-    }
+    }}

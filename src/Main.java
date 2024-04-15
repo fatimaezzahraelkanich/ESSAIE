@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 public class Main{
     public static void main(String[] args) {
-        System.out.print("entrer le n:");
+       /* System.out.print("entrer le n:");
         Scanner l = new Scanner(System.in);
         int n = l.nextInt();
         int T[]=new int[n];
@@ -15,8 +15,9 @@ public class Main{
         int[] TT = Arrays.copyOf(T, n);
         System.out.println("Tableau copié TT  : " + Arrays.toString(TT));
         Arrays.sort(T);
-        System.out.println("Tableau trié par ordre : " + Arrays.toString(T));
-
+        System.out.println("Tableau trié par ordre : " + Arrays.toString(T));*/
+                Personne Personne1 = new Personne("1234444","fatima","fatima","fatima@gmail.com",21);
+                Personne1.afficher();
 
     }
 }
